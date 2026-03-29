@@ -1,0 +1,21 @@
+{
+  "bot_id": "demo-acme",
+  "bot_name": "Frank",
+  "company_name": "Acme Resources",
+  "company_description": "A fictional mining and resources company used for demo purposes.",
+  "vertical": "hr_resources",
+  "tier": "professional",
+  "llm_provider": "anthropic",
+  "llm_model": "claude-haiku-4-5",
+  "rag_enabled": true,
+  "rag_top_k": 15,
+  "rag_min_relevance": 0.25,
+  "docs_dir": "/opt/frankbot/docs",
+  "max_docs": 30,
+  "max_doc_size_mb": 10,
+  "forms_enabled": true,
+  "form_limit": 3,
+  "audience": "internal",
+  "custom_instructions": "Always cite the specific policy document when answering leave or entitlement questions.",
+  "port": 8080
+}
