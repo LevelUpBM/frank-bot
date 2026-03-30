@@ -10,6 +10,8 @@ Frank is a production-ready AI chatbot platform built on:
 
 The client supplies their own Anthropic API key. Their documents never leave their server.
 
+<img width="2852" height="1378" alt="image" src="https://github.com/user-attachments/assets/d30302b4-4735-4380-ac2a-3b962e4a0172" />
+
 ---
 
 ## How It Works
